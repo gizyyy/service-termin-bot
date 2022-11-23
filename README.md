@@ -3,7 +3,7 @@ A Telegram Bot trying to get termin to me, If you want to use it, you need to cr
 
 
 # Uses
-telegrambots-spring-boot-starter
+telegrambots-spring-boot-starter and
 selenium
 
 # Target pages
